@@ -19,4 +19,4 @@
   
 4. 使用
    
-   adbd android-app://packagename/host/product/?goods_id=1149340&wid=21&source=pc&medium=details
+  ``` adbd android-app://packagename/host/product/?goods_id=1149340&wid=21&source=pc&medium=details```
