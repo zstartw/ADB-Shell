@@ -14,7 +14,7 @@
    
    添加下面的内容
    ```
-   #adb shell
+   #adb shell
    export PATH=${PATH}:/home/betterzw/adb_shell
   
    ```
