@@ -9,14 +9,12 @@
 2. 修改.bashrc,添加环境变量
    ```
    vim .bashrc
-   
    ```
    
    添加下面的内容
    ```
    #adb shell
    export PATH=${PATH}:/home/betterzw/adb_shell
-  
    ```
 3. 生效
 
